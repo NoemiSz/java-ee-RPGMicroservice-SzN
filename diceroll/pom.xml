@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.codecool</groupId>
-    <artifactId>diceroll1</artifactId>
+    <artifactId>diceroll</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>diceroll1</name>
+    <name>diceroll</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
